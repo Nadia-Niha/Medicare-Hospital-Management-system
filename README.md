@@ -49,5 +49,5 @@ This project is ideal for learning **full-stack web development concepts** and *
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Static demo (can be integrated with a server later)  
 - **Version Control:** Git & GitHub  
-## 📂 Folder Structure
+
 
